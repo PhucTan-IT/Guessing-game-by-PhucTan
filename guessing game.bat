@@ -87,7 +87,7 @@ echo.
 echo --------------------------------------------------------------------------------
 echo Instruction:
 echo - Start, choose Y or y to play, N or n to exit
-echo - Type in a number (Suggestion: 100000)
+echo - Type in a number (Suggestion: 10000)
 echo - If it shows as "lower", enter a lower number  
 echo - If it shows as "higher", enter a higher number
 echo - When you enter a number (eg: 50000), the previous numbers (60000,...) you
