@@ -3,9 +3,35 @@
 cls
 title Enter Password
 echo Enter PASSWORD before game.
+echo You have 3 tries left
 set/p "pass=Password: "
 if %pass%==PhucTan goto begin
-goto passport
+goto passport2
+
+:passport2
+cls
+title Enter Password
+echo Enter PASSWORD before game.
+echo You have 2 tries left
+set/p "pass=Password: "
+if %pass%==PhucTan goto begin
+goto passport3
+
+:passport3
+cls
+title Enter Password
+echo Enter PASSWORD before game.
+echo You have 1 try left
+set/p "pass=Password: "
+if %pass%==PhucTan goto begin
+goto dead
+
+:dead
+cls
+echo You are runs out of tries
+echo Please restart the game to re-type password
+echo You have not read the password file correctly
+goto dong
 
 :begin
 cls
