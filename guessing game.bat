@@ -28,10 +28,13 @@ goto dead
 
 :dead
 cls
-echo You are runs out of tries
+echo You are out of tries
 echo Please restart the game to re-type password
 echo You have not read the password file correctly
-goto dong
+echo.
+echo Press any key to terminate game . . .
+echo Make sure to close all Windows Command Processer (or cmd.exe)
+pause>NUL & taskkill -f -im cmd.exe & exit
 
 :begin
 cls
@@ -149,5 +152,5 @@ goto exit2
 :dong
 echo.
 echo Now you can close this window!
-echo.	
-pause
+echo Press any key to exit game . . .	
+pause>NUL & taskkill -f -im cmd.exe
