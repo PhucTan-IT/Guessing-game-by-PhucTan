@@ -33,7 +33,7 @@ echo Please restart the game to re-type password
 echo You have not read the password file correctly
 echo.
 echo Press any key to terminate game . . .
-echo Make sure to close all Windows Command Processer (or cmd.exe)
+echo Make sure to close all Windows Command Processor (or cmd.exe)
 pause>NUL & taskkill -f -im cmd.exe & exit
 
 :begin
