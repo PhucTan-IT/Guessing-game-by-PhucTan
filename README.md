@@ -11,7 +11,7 @@ Note: Sometimes it won't work because of security. Just copy the code inside the
 
 This game is 100% free, but if you want to call this game "licensed", just enter the password
 
-#
+## Author
 (c) PhucTan-IT
 - Youtube: https://www.youtube.com/channel/UCkB3BuLHHF7hXL4nKMqzb6A (Vietnamese)
 - Twitter: https://twitter.com/PhucTan_IT (Vietnamese & English)
