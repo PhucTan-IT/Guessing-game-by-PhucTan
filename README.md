@@ -16,7 +16,7 @@ This game is 100% free, but if you want to call this game "licensed", just enter
 - A new version of Python will release soon!
 ## Author
 (c) PhucTan-IT
-- Youtube: https://www.youtube.com/channel/UCkB3BuLHHF7hXL4nKMqzb6A (Vietnamese)
-- Twitter: https://twitter.com/PhucTan_IT (Vietnamese & English)
+- Website: https://sites.google.com/view/phucsblog-me (Vietnamese)
+- GitHub: https://github.com/PhucTan-IT
 
 Have Fun!
