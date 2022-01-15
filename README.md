@@ -6,6 +6,8 @@ This game will help you relax when finishing works. Instruction in game. Passwor
 
 You can download the game and build it for better experiments
 
+Download it at the download menu
+
 Note: Sometimes it won't work because of security. Just copy the code inside the batchfile and paste it on a new notepad file, then save it as .bat
 
 ## License
