@@ -1,5 +1,5 @@
 # Guessing game by PhucTan
-
+Uploaded in 2021
 ## Overview
 Hi, welcome to my game. This is version 0.1 of the game, use only on Windows.
 This game will help you relax when finishing works. Instruction in game. Password to play is PhucTan.
@@ -15,6 +15,8 @@ Download it at the download menu
 ![image](https://user-images.githubusercontent.com/87054949/149615341-0bf149f5-e620-4a3f-9137-ab46ebc90fda.png)
 
 or just download the source code
+
+![image](https://user-images.githubusercontent.com/87054949/149615421-13991fee-acea-45a6-b5da-8b281a94b3ac.png)
 
 ## License
 
