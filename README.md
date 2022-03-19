@@ -23,7 +23,7 @@ or just download the source code
 This game is 100% free, but if you want to call this game "licensed", just enter the password
 
 ## Notes
-- A new version of Python will release soon!
+- A new version of Python (0.2) will release soon!
 ## Author
 (c) PhucTan-IT
 - Website: https://sites.google.com/view/phucsblog-me (Vietnamese)
