@@ -28,7 +28,6 @@ This game is 100% free, but if you want to call this game "licensed", just enter
 - Version 0.2 has released
 ## Author
 (c) PhucTan-IT
-- Website: https://sites.google.com/view/phucsblog-me (Vietnamese)
 - GitHub: https://github.com/PhucTan-IT
 
 Have Fun!
